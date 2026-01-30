@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+shapely
+streamlit
+roboflow
+# For ByteTrack if we need external, though ultralytics has it built-in.
